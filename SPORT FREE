@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,AL: RTK 1 HD
+http://192.162.139.56:8000/live/Musa1/Musa2/5755.ts
+#EXTINF:-1,AL: RTK 2
+http://192.162.139.56:8000/live/Musa1/Musa2/5754.ts
+#EXTINF:-1,AL: RTK 3
+http://192.162.139.56:8000/live/Musa1/Musa2/5753.ts
+#EXTINF:-1,AL: RTK 4
+http://192.162.139.56:8000/live/Musa1/Musa2/5752.ts
+#EXTINF:-1,AL: RTSH 1 HD
+http://192.162.139.56:8000/live/Musa1/Musa2/5746.ts
+#EXTINF:-1,AL: RTSH HD
+http://192.162.139.56:8000/live/Musa1/Musa2/5749.ts
+#EXTINF:-1,AL: RTV 21 HD
+http://192.162.139.56:8000/live/Musa1/Musa2/5751.ts
+#EXTINF:-1,AL: RTV 21 Junior
+http://192.162.139.56:8000/live/Musa1/Musa2/5737.ts
+#EXTINF:-1,AL: KLAN Kosova HD
+http://192.162.139.56:8000/live/Musa1/Musa2/5757.ts
+#EXTINF:-1,AL: KTV HD
+http://192.162.139.56:8000/live/Musa1/Musa2/5756.ts
